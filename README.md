@@ -25,9 +25,9 @@ after training and create this prediction model you can deply it as flask app, t
 
     *to get faster training process you can download data set one, and in examples/stackoverflow_data_example.py change the data source to your local dataset*
 
-3. Data transfaring/database fetching scripts are being kept [here](https://github.com/AkramYamin/question_tag/blob/master/src/utils/dto.py)
-4. Data pre-processing/transformation scripts are being kept [here](https://github.com/AkramYamin/question_tag/tree/master/src/processing)
-5. model training and saving as pickle file are being kept [here](https://github.com/AkramYamin/question_tag/tree/master/src/modelling)
+3. Data transfaring/database fetching model are being kept [here](https://github.com/AkramYamin/question_tag/blob/master/src/utils/dto.py)
+4. Data pre-processing/transformation model are being kept [here](https://github.com/AkramYamin/question_tag/tree/master/src/processing)
+5. model training and saving as pickle mdoel are being kept [here](https://github.com/AkramYamin/question_tag/tree/master/src/modelling)
 
 
 ## run the example 
